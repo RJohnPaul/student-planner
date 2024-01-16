@@ -1,5 +1,18 @@
 # Student Planner
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/826787aba21a291d51bffef81492113979627c62/Frame%2023.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 The Student Planner is a Python script designed to help students manage and organize their academic tasks, deadlines, and study materials efficiently. It provides a simple command-line interface with various features to enhance task management.
 
 ## Features
@@ -89,5 +102,12 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
+</br>
 
 ---
